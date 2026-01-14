@@ -1,3 +1,5 @@
+alert("JS読み込めてます");
+
 const timerDisplay = document.getElementById("timer");
 const startButton = document.getElementById("start");
 
